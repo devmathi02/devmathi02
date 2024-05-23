@@ -28,3 +28,8 @@ my email: mathiascf21@gmail.com
 - Sports: I like to play basketball and calisthenics.
 - Walking: I love long walks and even more so if they are at night.
 - Video games: I like retro video games.
+
+## Languages
+
+- Native Spanish
+- English Basic

@@ -10,3 +10,8 @@ Looking for new opportunities, let's do something amazing together!!
 
 my email: mathiascf21@gmail.com
 
+## Technologies
+
+- HTML & CSS
+- Javascript
+- Git

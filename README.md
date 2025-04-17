@@ -50,5 +50,5 @@ Soy un **egresado de la carrera de Desarrollo de Sistemas de Información en el 
 
 ---
 
-⭐ **"si lo puedes imaginar, lo puedes crear"** ⭐ 
+⭐ **"la creación nace en tu imaginación"** ⭐ 
 

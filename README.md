@@ -1,35 +1,54 @@
-# Hello World! I´m Mathias Cerron! Full Stack Developer
+<div align="center">
+<h2> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hola Mundo!, Soy Mathias Cerron  < Developer />!</h2>
+  Desarrollo de Sistemas | Full Stack en desarrollo | apacionado por la tecnologia
+</div>
+  
+## 🚀 Sobre mí
 
-## About me 
+Soy un **egresado de la carrera de Desarrollo de Sistemas de Información en el instituto Idat** con conocimientos solidos en programación y un gran entusiasmo por seguir aprendiendo. Me encanta resolver problemas, colaborar en equipo y crear soluciones tecnológicas eficientes.
 
-Currently studying programming in Egg, full stack programmer in development, every day improving and polishing my skills.
 
-## Contact me
+## 💻 Habilidades Técnicas
 
-Looking for new opportunities, let's do something amazing together!!
+- **Lenguajes:**
+  
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-my email: mathiascf21@gmail.com
+- **Bases de Datos:**  
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-## Technologies
+- **Herramientas:**  
+  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=trello&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) 
 
-- HTML & CSS
-- Javascript
-- Git
+## 🌟 Habilidades Blandas  
 
-## Skills
+- Trabajo en equipo 🤝  
+- Adaptabilidad 🔄  
+- Compromiso y responsabilidad ✅  
+- Resolución de problemas 🧠  
+- Aprendizaje rápido 📚  
 
-- Problem-Solving: As a developer, I thrive on solving complex problems. 
-- Self-taught: I love learning new things on my own.
-- Teamwork: having a team is essential for the development of any project, I contribute as much as I can with my team and I am committed to solving any impediment together.
-- Communication: mention when I don't know something, admit my mistakes and be honest, a fundamental basis that complements my ability to work as a team.
+## 🌎 Idiomas  
 
-## Hobbies
+- Español (Nativo)  
+- Inglés (Básico - En mejora) 
 
-- Sports: I like to play basketball and calisthenics.
-- Walking: I love long walks and even more so if they are at night.
-- Video games: I like retro video games.
+## 📫 ¡Conéctate conmigo!  
 
-## Languages
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mathias-cerr%C3%B3n-dev/])   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mathiascf21@gmail.com)
 
-- Native Spanish
-- English Basic
+## ⚡ Fun Fact  
+
+¡Cuando no estoy programando, me gusta dar mantenimiento a mis equipos, darle una segunda vida a algunos telefonos antiguos, jugar videojuegos en xbox360 o pc. leer y practicar mi ingles!  
+
+---
+
+⭐ **"si lo puedes imaginar, lo puedes crear"** ⭐ 
+

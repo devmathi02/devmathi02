@@ -5,7 +5,7 @@
   
 ## 🚀 Sobre mí
 
-Soy un **egresado de la carrera de Desarrollo de Sistemas de Información en el instituto Idat** con conocimientos solidos en programación y un gran entusiasmo por seguir aprendiendo. Me encanta resolver problemas, colaborar en equipo y crear soluciones tecnológicas eficientes.
+Soy **egresado de la carrera de Desarrollo de Sistemas de Información en el instituto Idat** con conocimientos solidos en programación y un gran entusiasmo por seguir aprendiendo. Me encanta resolver problemas, colaborar en equipo y crear soluciones tecnológicas eficientes.
 
 
 ## 💻 Habilidades Técnicas

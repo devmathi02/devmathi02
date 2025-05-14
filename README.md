@@ -46,9 +46,9 @@ Soy **egresado de la carrera de Desarrollo de Sistemas de Información en el ins
 
 ## ⚡ Fun Fact  
 
-¡Cuando no estoy programando, me gusta dar mantenimiento a mis equipos, darle una segunda vida a algunos telefonos antiguos, jugar videojuegos en xbox360 o pc. leer y practicar mi ingles!  
+Me encanta chatarrear y darles una segunda vida a equipos antiguos (telefonos, pcs y laptops), adoro las consolas de antiguas generaciones (en especial las gameboy y 3ds).
 
 ---
 
-⭐ **"la creación nace en tu imaginación"** ⭐ 
+⭐ **"a veces solo basta con imaginar algo y hacerlos realidad"** ⭐ 
 

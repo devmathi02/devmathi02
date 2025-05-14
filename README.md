@@ -50,5 +50,5 @@ Me encanta chatarrear y darles una segunda vida a equipos antiguos (telefonos, p
 
 ---
 
-⭐ **"a veces solo basta con imaginar algo y hacerlos realidad"** ⭐ 
+⭐ **"a veces solo basta con imaginar algo y hacerlo realidad"** ⭐ 
 

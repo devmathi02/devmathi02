@@ -46,7 +46,7 @@ Soy **egresado de la carrera de Desarrollo de Sistemas de Información en el ins
 
 ## ⚡ Fun Fact  
 
-Me encanta chatarrear y darles una segunda vida a equipos antiguos (telefonos, pcs y laptops), adoro las consolas de antiguas generaciones (en especial las gameboy y 3ds).
+Me encanta chatarrear y darles una segunda vida a equipos antiguos (telefonos, pcs y laptops), adoro las consolas de antiguas generaciones (en especial las gameboy y 3ds), amo la pizza con piña.
 
 ---
 
